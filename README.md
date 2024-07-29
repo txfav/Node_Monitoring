@@ -24,7 +24,7 @@ This project involves the use of an ESP32 microcontroller to read various sensor
 
 1. *Clone the repository*
     bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone [https://github.com/txfav/node_monitoring.git]
     
 2. *Open the project in Arduino IDE or PlatformIO*
 
@@ -99,13 +99,7 @@ This project involves the use of an ESP32 microcontroller to read various sensor
 - *OnDataRecv()*: Callback for handling received data via ESP-NOW.
 - *sleepTimeout()*: Timer callback for entering deep sleep mode after timeout.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Special thanks to the contributors of the libraries used in this project.
 
 ## Contact
 
