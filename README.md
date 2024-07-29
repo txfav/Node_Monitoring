@@ -103,4 +103,4 @@ This project involves the use of an ESP32 microcontroller to read various sensor
 
 ## Contact
 
-For any inquiries or issues, please contact [your-email@example.com](mailto:faisal.aviva12@gmail.com).
+For any inquiries or issues, please contact [faisal.aviva12@gmail.com](mailto:faisal.aviva12@gmail.com).
