@@ -24,7 +24,7 @@ This project involves the use of an ESP32 microcontroller to read various sensor
 
 1. *Clone the repository*
     bash
-    git clone [https://github.com/txfav/node_monitoring.git]
+    git clone [[https://github.com/txfav/node_monitoring.git]](https://github.com/txfav/node_monitoring.git)
     
 2. *Open the project in Arduino IDE or PlatformIO*
 
